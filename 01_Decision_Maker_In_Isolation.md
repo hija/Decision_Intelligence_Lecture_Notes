@@ -48,3 +48,40 @@ Performance Goals = Measurable, and mostly under your control
 Process Goals = Measurable and fully under your control
 
 Never allow your Process Goal to become the most imporant one; it is only there to serve the outcome goal. Example: Goal is to become healthy this year. Process goal is running 45 minutes per day. If you realize you are hurting yourself with this process goal, throw the goal away and choose another one which serves your outcome goal (e.g. swim 30 minutes per day)
+
+## 04 Value of clairvoyance
+
+Clairvoyance = Helps you think about how much effort, information, and data to put towards your decision
+
+Don't overspend or underspend on a decision!
+
+1. Visualize the scenarios (best outcome, worst outcome)
+2. How much would you pay for the perfect information on effort, information and data? Value is low => Use intuition, otherwise => Use time to make a great decision
+
+When to rely on intuition? Stakes are low, Time Pressure, Expertise (you know the stuff already)
+
+## 05 The hackable human
+
+Humans are limited by their biological factors (low blood sugar, less sleep etc.) + there are heuristics and biases!
+
+--> Prehack yourself!
+--> Prevent the decision if you aren't in a good condition (e.g. you had not enough sleep), try to make it later
+
+Principle Agent Problem = Conflicting priorities between Owner (Longterm you) and Agent (Shortterm you) who runs the business --> Create constraints on the agent (shortterm you)
+e.g. Create the rule to not eat two candies without having a 10 minute break between them
+
+## 06 Decisiveness
+Why are people not decivise?
+* Bad habits
+* Distracted by lower priority decisions --> Be intentional with your priorities
+* Grief + Emotions --> Just choose the best decision, even if there are only "bad" decisions - execute and move on. Don't grief
+* All options are similiar value --> Flip a coin or sth.
+
+## 07 Confirmation Bias
+What you already believe, impacts how you see and process information!
++ Framing (How information is presented)
+Don't use data too just support what you already believe
+
+
+
+
